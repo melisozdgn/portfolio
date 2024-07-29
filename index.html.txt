@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melis Özdoğan - Software Engineer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Melis Özdoğan</h1>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </header>
+    <section class="showcase">
+        <div class="container">
+            <h1>Welcome to My Personal Website</h1>
+            <p>Software Engineer specialized in AI, ML, and Data Science</p>
+        </div>
+    </section>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I'm Melis Özdoğan, a Software Engineering student with a keen interest in Artificial Intelligence, Machine Learning, and Data Science.</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>C</li>
+                <li>C++</li>
+                <li>Python</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: melisozdogan1@gmail.com</p>
+            <p>GitHub: <a href="https://github.com/melisozdgn" target="_blank">melisozdgn</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>Melis Özdoğan &copy; 2024</p>
+    </footer>
+</body>
+</html>
